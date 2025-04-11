@@ -1,62 +1,66 @@
 [
   {
-    "Ley orgánica 4\/1981":"LO 3\/2007 de 22 de marzo ",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Igualdad efectiva de mujeres y hombres"
+    "left":"Ley orgánica 4/1981",
+    "right":"Ley que regula los estados de alarma, excepcion y sitio"
   },
   {
-    "Ley orgánica 4\/1981":"LO 1\/2004, de 28 de diciembre",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Medidas de proteccion integral contra la Violencia de Genero"
+    "left":"LO 3/2007 de 22 de marzo",
+    "right":"Igualdad efectiva de mujeres y hombres"
   },
   {
-    "Ley orgánica 4\/1981":"LO 15\/2022, del 12 de julio ",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Integral para la igualdad de trato y la no discriminación"
+    "left":"LO 1/2004, de 28 de diciembre",
+    "right":"Medidas de proteccion integral contra la Violencia de Genero"
   },
   {
-    "Ley orgánica 4\/1981":"LO 4\/2023, de 28 de febrero",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Igualdad real y efectiva de las personas trans y para la garantia de los derechos de las personas LGTBI"
+    "left":"LO 15/2022, del 12 de julio",
+    "right":"Integral para la igualdad de trato y la no discriminación"
   },
   {
-    "Ley orgánica 4\/1981":"LO 1\/2000, de 7 de enero",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Ley de Enjuiciamiento Civil"
+    "left":"LO 4/2023, de 28 de febrero",
+    "right":"Igualdad real y efectiva de las personas trans y para la garantia de los derechos de las personas LGTBI"
   },
   {
-    "Ley orgánica 4\/1981":"LO 7\/1985, de 2 de abril",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Reguladora de las Bases del Régimen Local"
+    "left":"LO 1/2000, de 7 de enero",
+    "right":"Ley de Enjuiciamiento Civil"
   },
   {
-    "Ley orgánica 4\/1981":"LO 6\/1985, de 1 de julio",
-    "Ley que regula los estados de alarma, excepcion y sitio":"del Poder Judicial: preámbulo, un título preliminar y 8 libros"
+    "left":"LO 7/1985, de 2 de abril",
+    "right":"Reguladora de las Bases del Régimen Local"
   },
   {
-    "Ley orgánica 4\/1981":"RD 2917\/1981, 27 de noviembre",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Registro Civil de la Familia Real"
+    "left":"LO 6/1985, de 1 de julio",
+    "right":"del Poder Judicial: preámbulo, un título preliminar y 8 libros"
   },
   {
-    "Ley orgánica 4\/1981":"Ley 20\/2011, 21 de julio ",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Registro Civil "
+    "left":"RD 2917/1981, 27 de noviembre",
+    "right":"Registro Civil de la Familia Real"
   },
   {
-    "Ley orgánica 4\/1981":"Ley 50\/1981, de 30 de diciembre",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Estatuto Orgánico del Ministerio Fiscal."
+    "left":"Ley 20/2011, 21 de julio",
+    "right":"Registro Civil"
   },
   {
-    "Ley orgánica 4\/1981":"Ley 3\/1995 de 7 de junio",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Reglamento de los Jueces de paz"
+    "left":"Ley 50/1981, de 30 de diciembre",
+    "right":"Estatuto Orgánico del Ministerio Fiscal."
   },
   {
-    "Ley orgánica 4\/1981":"Ley 29\/2015, del 30 de julio",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Cooperación jurídica internacional en materia civil"
+    "left":"Ley 3/1995 de 7 de junio",
+    "right":"Reglamento de los Jueces de paz"
   },
   {
-    "Ley orgánica 4\/1981":"RD 937\/2003, de 18 de julio",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Modernización de archivos judiciales"
+    "left":"Ley 29/2015, del 30 de julio",
+    "right":"Cooperación jurídica internacional en materia civil"
   },
   {
-    "Ley orgánica 4\/1981":"Ley 1\/1996, de 10 de enero",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Asistencia Juridica Gratuita"
+    "left":"RD 937/2003, de 18 de julio",
+    "right":"Modernización de archivos judiciales"
   },
   {
-    "Ley orgánica 4\/1981":"Proposicion de no ley del 16 de abril de 2002",
-    "Ley que regula los estados de alarma, excepcion y sitio":"Carta de Derechos de los Ciudadanos aprobada por el Pleno del Congreso de los Diputados"
+    "left":"Ley 1/1996, de 10 de enero",
+    "right":"Asistencia Juridica Gratuita"
+  },
+  {
+    "left":"Proposicion de no ley del 16 de abril de 2002",
+    "right":"Carta de Derechos de los Ciudadanos aprobada por el Pleno del Congreso de los Diputados"
   }
 ]
