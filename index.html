@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Matching Quiz</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f0f0f0; }
+    .columns { display: flex; gap: 2rem; }
+    .column { width: 45%; }
+    .item { background: #fff; border: 1px solid #ccc; padding: 1rem; margin-bottom: 1rem; border-radius: 5px; }
+    .droppable { min-height: 50px; background: #eef; margin-top: 0.5rem; padding: 0.5rem; border: 1px dashed #999; border-radius: 5px; }
+    .draggable { background: #007bff; color: white; padding: 0.5rem 1rem; border-radius: 4px; cursor: grab; display: inline-block; }
+  </style>
+</head>
+<body>
+  <h2>Match the Right Answers</h2>
+  <div class="columns">
+    <div class="column" id="leftColumn">
+      <div class="item">
+        The capital of France is...
+        <div class="droppable" data-answer="Paris"></div>
+      </div>
+      <div class="item">
+        Water freezes at...
+        <div class="droppable" data-answer="0°C"></div>
+      </div>
+      <div class="item">
+        The largest planet is...
+        <div class="droppable" data-answer="Jupiter"></div>
+      </div>
+    </div>
+    <div class="column" id="rightColumn">
+      <div class="draggable" draggable="true">Jupiter</div>
+      <div class="draggable" draggable="true">0°C</div>
+      <div class="draggable" draggable="true">Paris</div>
+    </div>
+  </div>
+
+  <button onclick="checkAnswers()">Check Answers</button>
+  <div id="result" style="margin-top:1rem; font-weight: bold;"></div>
+
+  <script>
+    let draggedItem = null;
+
+    document.querySelectorAll('.draggable').forEach(item => {
+      item.addEventListener('dragstart', e => {
+        draggedItem = item;
+      });
+    });
+
+    document.querySelectorAll('.droppable').forEach(area => {
+      area.addEventListener('dragover', e => e.preventDefault());
+      area.addEventListener('drop', e => {
+        e.preventDefault();
+        if (draggedItem) {
+          area.innerHTML = '';
+          area.appendChild(draggedItem);
+        }
+      });
+    });
+
+    function checkAnswers() {
+      let allCorrect = true;
+      document.querySelectorAll('.droppable').forEach(area => {
+        const expected = area.getAttribute('data-answer');
+        const actual = area.textContent.trim();
+        if (expected !== actual) allCorrect = false;
+      });
+      document.getElementById('result').textContent = allCorrect ? "✅ All correct!" : "❌ Try again.";
+    }
+  </script>
+</body>
+</html>
