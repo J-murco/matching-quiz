@@ -1,310 +1,310 @@
 [
   {
-    "Situacion":"MANDATO: Congreso",
-    "Plazo":"4 años"
+    "left":"MANDATO: Congreso",
+    "right":"4 años"
   },
   {
-    "Situacion":"MANDATO: Senado",
-    "Plazo":"4 años"
+    "left":"MANDATO: Senado",
+    "right":"4 años"
   },
   {
-    "Situacion":"MANDATO: CGJP",
-    "Plazo":"5 años"
+    "left":"MANDATO: CGJP",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Tribunal de Cuentas",
-    "Plazo":"9 años"
+    "left":"MANDATO: Tribunal de Cuentas",
+    "right":"9 años"
   },
   {
-    "Situacion":"MANDATO: Miembros del Tribunal Constitucional",
-    "Plazo":"9 años (renov 1\/3 cada 3 años)"
+    "left":"MANDATO: Miembros del Tribunal Constitucional",
+    "right":"9 años (renov 1\/3 cada 3 años)"
   },
   {
-    "Situacion":"MANDATO: Presidente\/ Vicepresidente TC",
-    "Plazo":"3 años (reelegido solo 1 vez)"
+    "left":"MANDATO: Presidente\/ Vicepresidente TC",
+    "right":"3 años (reelegido solo 1 vez)"
   },
   {
-    "Situacion":"MANDATO: Defensor del pueblo",
-    "Plazo":"5 años"
+    "left":"MANDATO: Defensor del pueblo",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Renovación planta y demarcación",
-    "Plazo":"5 años"
+    "left":"MANDATO: Renovación planta y demarcación",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Sala especial del TS",
-    "Plazo":"Anualmente"
+    "left":"MANDATO: Sala especial del TS",
+    "right":"Anualmente"
   },
   {
-    "Situacion":"MANDATO: Jueces de Paz",
-    "Plazo":"4 años"
+    "left":"MANDATO: Jueces de Paz",
+    "right":"4 años"
   },
   {
-    "Situacion":"MANDATO: Miembros electivos de las Salas de gobierno",
-    "Plazo":"5 años"
+    "left":"MANDATO: Miembros electivos de las Salas de gobierno",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Jueces Decanos",
-    "Plazo":"4 años"
+    "left":"MANDATO: Jueces Decanos",
+    "right":"4 años"
   },
   {
-    "Situacion":"MANDATO: Escalafón de la carrera judicial",
-    "Plazo":"3 años"
+    "left":"MANDATO: Escalafón de la carrera judicial",
+    "right":"3 años"
   },
   {
-    "Situacion":"MANDATO: Comisión de selección ",
-    "Plazo":"4 años"
+    "left":"MANDATO: Comisión de selección ",
+    "right":"4 años"
   },
   {
-    "Situacion":"MANDATO: Plan  especializado de forma continuada",
-    "Plazo":"5 años"
+    "left":"MANDATO: Plan  especializado de forma continuada",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Escalafón del cuerpo de LAJ",
-    "Plazo":"Anualmente"
+    "left":"MANDATO: Escalafón del cuerpo de LAJ",
+    "right":"Anualmente"
   },
   {
-    "Situacion":"MANDATO: Secretario de gobierno",
-    "Plazo":"5 años (renovable no + de 10 años)"
+    "left":"MANDATO: Secretario de gobierno",
+    "right":"5 años (renovable no + de 10 años)"
   },
   {
-    "Situacion":"MANDATO: Secretario coordinador provincial",
-    "Plazo":"5 años (renovable no + de 10 años)"
+    "left":"MANDATO: Secretario coordinador provincial",
+    "right":"5 años (renovable no + de 10 años)"
   },
   {
-    "Situacion":"MANDATO: Presidente CGPJ",
-    "Plazo":"5 años"
+    "left":"MANDATO: Presidente CGPJ",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Presidente del Tribunal Supremo",
-    "Plazo":"5 años"
+    "left":"MANDATO: Presidente del Tribunal Supremo",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Vicepresidente CGPJ",
-    "Plazo":"5 años"
+    "left":"MANDATO: Vicepresidente CGPJ",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Comision permanente",
-    "Plazo":"Anualmente"
+    "left":"MANDATO: Comision permanente",
+    "right":"Anualmente"
   },
   {
-    "Situacion":"MANDATO: Comision disciplinaria",
-    "Plazo":"5 años"
+    "left":"MANDATO: Comision disciplinaria",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Promotor de la accion disciplinaria",
-    "Plazo":"5 años"
+    "left":"MANDATO: Promotor de la accion disciplinaria",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Comision de Asuntos economicos",
-    "Plazo":"Anualmente"
+    "left":"MANDATO: Comision de Asuntos economicos",
+    "right":"Anualmente"
   },
   {
-    "Situacion":"MANDATO: Comision de igualdad",
-    "Plazo":"Anualmente"
+    "left":"MANDATO: Comision de igualdad",
+    "right":"Anualmente"
   },
   {
-    "Situacion":"MANDATO: Profesores escuela judicial",
-    "Plazo":"2 años (renovable no +de 10años)"
+    "left":"MANDATO: Profesores escuela judicial",
+    "right":"2 años (renovable no +de 10años)"
   },
   {
-    "Situacion":"MANDATO: Letrado de carrera temporal",
-    "Plazo":"2 años (renovable no +de 10años)"
+    "left":"MANDATO: Letrado de carrera temporal",
+    "right":"2 años (renovable no +de 10años)"
   },
   {
-    "Situacion":"MANDATO: Letrados mayores",
-    "Plazo":"5 años"
+    "left":"MANDATO: Letrados mayores",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Jefaturas de servicio",
-    "Plazo":"5 años"
+    "left":"MANDATO: Jefaturas de servicio",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Parlamento europeo",
-    "Plazo":"5 años"
+    "left":"MANDATO: Parlamento europeo",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Miembros de la mesa (UE)",
-    "Plazo":"2 años y medio renovables"
+    "left":"MANDATO: Miembros de la mesa (UE)",
+    "right":"2 años y medio renovables"
   },
   {
-    "Situacion":"MANDATO: Presidente del  Consejo Europeo",
-    "Plazo":"2 años y medio renovables solo 1 vez"
+    "left":"MANDATO: Presidente del  Consejo Europeo",
+    "right":"2 años y medio renovables solo 1 vez"
   },
   {
-    "Situacion":"MANDATO: Presidente del Consejo de la UE por grupos de 3 Estados miembros",
-    "Plazo":"18 meses, cada miembro 6 meses"
+    "left":"MANDATO: Presidente del Consejo de la UE por grupos de 3 Estados miembros",
+    "right":"18 meses, cada miembro 6 meses"
   },
   {
-    "Situacion":"MANDATO: Comision Europea",
-    "Plazo":"5 años, pueden ser reelegidos"
+    "left":"MANDATO: Comision Europea",
+    "right":"5 años, pueden ser reelegidos"
   },
   {
-    "Situacion":"MANDATO: TJUE",
-    "Plazo":"peridos de 6 años, con renovacion parcial cada 3 años"
+    "left":"MANDATO: TJUE",
+    "right":"peridos de 6 años, con renovacion parcial cada 3 años"
   },
   {
-    "Situacion":"MANDATO: Presidente de la TJUE",
-    "Plazo":"3 años renovables"
+    "left":"MANDATO: Presidente de la TJUE",
+    "right":"3 años renovables"
   },
   {
-    "Situacion":"MANDATO: Vicepresidente de la TJUE",
-    "Plazo":"6 años renovables"
+    "left":"MANDATO: Vicepresidente de la TJUE",
+    "right":"6 años renovables"
   },
   {
-    "Situacion":"MANDATO: Jueces y Abogados generales del Tribunal de Justicia de la Union Europea (TJUE)",
-    "Plazo":"6 años. Renovación parcial cada 3 años"
+    "left":"MANDATO: Jueces y Abogados generales del Tribunal de Justicia de la Union Europea (TJUE)",
+    "right":"6 años. Renovación parcial cada 3 años"
   },
   {
-    "Situacion":"MANDATO: Miembros del Tribunal de Cuentas Europeo",
-    "Plazo":"6 años renovables"
+    "left":"MANDATO: Miembros del Tribunal de Cuentas Europeo",
+    "right":"6 años renovables"
   },
   {
-    "Situacion":"MANDATO: Presidente del Tribunal de Cuentas Europeo",
-    "Plazo":"3 años renovables"
+    "left":"MANDATO: Presidente del Tribunal de Cuentas Europeo",
+    "right":"3 años renovables"
   },
   {
-    "Situacion":"MANDATO: BCE",
-    "Plazo":"8 años no renovables"
+    "left":"MANDATO: BCE",
+    "right":"8 años no renovables"
   },
   {
-    "Situacion":"MANDATO: Defensor del pueblo Europeo",
-    "Plazo":"5 años renovables"
+    "left":"MANDATO: Defensor del pueblo Europeo",
+    "right":"5 años renovables"
   },
   {
-    "Situacion":"MANDATO: Miembros del Comité econ. Social (organo consultivo) UE",
-    "Plazo":"5 años renovables"
+    "left":"MANDATO: Miembros del Comité econ. Social (organo consultivo) UE",
+    "right":"5 años renovables"
   },
   {
-    "Situacion":"MANDATO: Presidente y Mesa Comité econ. Social (organo consultivo) UE",
-    "Plazo":"2 años y medio"
+    "left":"MANDATO: Presidente y Mesa Comité econ. Social (organo consultivo) UE",
+    "right":"2 años y medio"
   },
   {
-    "Situacion":"MANDATO: Comité de regiones (organo consultivo)UE",
-    "Plazo":"5 años renovables"
+    "left":"MANDATO: Comité de regiones (organo consultivo)UE",
+    "right":"5 años renovables"
   },
   {
-    "Situacion":"MANDATO: Presidente y Mesa Comité de regiones (organo consultivo)UE",
-    "Plazo":"2 años y medio"
+    "left":"MANDATO: Presidente y Mesa Comité de regiones (organo consultivo)UE",
+    "right":"2 años y medio"
   },
   {
-    "Situacion":"MANDATO: FGE",
-    "Plazo":"4 años"
+    "left":"MANDATO: FGE",
+    "right":"4 años"
   },
   {
-    "Situacion":"MANDATO: Fiscales de la inspeccion fiscal",
-    "Plazo":"Plazo máximo de 10 años"
+    "left":"MANDATO: Fiscales de la inspeccion fiscal",
+    "right":"right máximo de 10 años"
   },
   {
-    "Situacion":"MANDATO: Teniente fiscal exterior",
-    "Plazo":"Plazo máximo de 10 años"
+    "left":"MANDATO: Teniente fiscal exterior",
+    "right":"right máximo de 10 años"
   },
   {
-    "Situacion":"MANDATO: Presidente Autoridad independiente par la igualdad de trato y la no discriminación",
-    "Plazo":"5 años no renovables"
+    "left":"MANDATO: Presidente Autoridad independiente par la igualdad de trato y la no discriminación",
+    "right":"5 años no renovables"
   },
   {
-    "Situacion":"MANDATO: Mandato miembros del Ayuntamiento",
-    "Plazo":"4 años"
+    "left":"MANDATO: Mandato miembros del Ayuntamiento",
+    "right":"4 años"
   },
   {
-    "Situacion":"MANDATO: Letrados del Gabinete tecnico del TS",
-    "Plazo":"1 años prorrogble por sucesivos periodos de 3 años"
+    "left":"MANDATO: Letrados del Gabinete tecnico del TS",
+    "right":"1 años prorrogble por sucesivos periodos de 3 años"
   },
   {
-    "Situacion":"MANDATO: Magistrado TS autorizaciones CNI, a prop del CGPJ, entre magistrados de 3ª categoria ",
-    "Plazo":"5 años"
+    "left":"MANDATO: Magistrado TS autorizaciones CNI, a prop del CGPJ, entre magistrados de 3ª categoria ",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Delegados de personal",
-    "Plazo":"4 años, renovables por periodos sucesivos"
+    "left":"MANDATO: Delegados de personal",
+    "right":"4 años, renovables por periodos sucesivos"
   },
   {
-    "Situacion":"MANDATO: Miembros del comité de empresa",
-    "Plazo":"4 años, renovables por periodos sucesivos"
+    "left":"MANDATO: Miembros del comité de empresa",
+    "right":"4 años, renovables por periodos sucesivos"
   },
   {
-    "Situacion":"MANDATO: Org. Representantes Adm. Públicas",
-    "Plazo":"4 años, puediendo ser reelegido"
+    "left":"MANDATO: Org. Representantes Adm. Públicas",
+    "right":"4 años, puediendo ser reelegido"
   },
   {
-    "Situacion":"MANDATO: Juntas de personal",
-    "Plazo":"4 años, puediendo ser reelegido"
+    "left":"MANDATO: Juntas de personal",
+    "right":"4 años, puediendo ser reelegido"
   },
   {
-    "Situacion":"MANDATO: Presidente Tribunal de Cuentas",
-    "Plazo":"3 años"
+    "left":"MANDATO: Presidente Tribunal de Cuentas",
+    "right":"3 años"
   },
   {
-    "Situacion":"MANDATO: Duración del mandato de los Consejeros de Cuentas",
-    "Plazo":"9 años"
+    "left":"MANDATO: Duración del mandato de los Consejeros de Cuentas",
+    "right":"9 años"
   },
   {
-    "Situacion":"MANDATO: Diputados Parlamento Europeo.",
-    "Plazo":"5 años"
+    "left":"MANDATO: Diputados Parlamento Europeo.",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Presidente, Vicepresidente y  Cuestores del Parlamento Europeo",
-    "Plazo":"2 años y medio renovables"
+    "left":"MANDATO: Presidente, Vicepresidente y  Cuestores del Parlamento Europeo",
+    "right":"2 años y medio renovables"
   },
   {
-    "Situacion":"MANDATO: Comisiones Especiales del Parlamento Europeo",
-    "Plazo":"No excederá de 12 meses"
+    "left":"MANDATO: Comisiones Especiales del Parlamento Europeo",
+    "right":"No excederá de 12 meses"
   },
   {
-    "Situacion":"MANDATO: Presidencia del Consejo de la UE por rotación de cada miembro del grupo.",
-    "Plazo":"6 meses"
+    "left":"MANDATO: Presidencia del Consejo de la UE por rotación de cada miembro del grupo.",
+    "right":"6 meses"
   },
   {
-    "Situacion":"MANDATO: Miembros de la Comisión Europea",
-    "Plazo":"5 años"
+    "left":"MANDATO: Miembros de la Comisión Europea",
+    "right":"5 años"
   },
   {
-    "Situacion":"MANDATO: Presidente y Vicepresidente del Tribunal de Justicia. (TJUE)",
-    "Plazo":"3 años renovables"
+    "left":"MANDATO: Presidente y Vicepresidente del Tribunal de Justicia. (TJUE)",
+    "right":"3 años renovables"
   },
   {
-    "Situacion":"MANDATO: Decano de Sala del Tribunal de Cuentas Europeo",
-    "Plazo":"2 años renovables"
+    "left":"MANDATO: Decano de Sala del Tribunal de Cuentas Europeo",
+    "right":"2 años renovables"
   },
   {
-    "Situacion":"MANDATO: Secretario del Tribunal de Justicia (TJUE)",
-    "Plazo":"6 años renovables"
+    "left":"MANDATO: Secretario del Tribunal de Justicia (TJUE)",
+    "right":"6 años renovables"
   },
   {
-    "Situacion":"MANDATO: Presidentes de las Salas de 5 jueces del Tribunal de Justicia.(TJUE)",
-    "Plazo":"3 años"
+    "left":"MANDATO: Presidentes de las Salas de 5 jueces del Tribunal de Justicia.(TJUE)",
+    "right":"3 años"
   },
   {
-    "Situacion":"MANDATO: Presidentes de las Salas de 3 jueces del Tribunal de Justicia.(TJUE)",
-    "Plazo":"1 año"
+    "left":"MANDATO: Presidentes de las Salas de 3 jueces del Tribunal de Justicia.(TJUE)",
+    "right":"1 año"
   },
   {
-    "Situacion":"MANDATO: Jueces del Tribunal General.(TJUE)",
-    "Plazo":"6 años. Renovación parcial cada 3 años"
+    "left":"MANDATO: Jueces del Tribunal General.(TJUE)",
+    "right":"6 años. Renovación parcial cada 3 años"
   },
   {
-    "Situacion":"MANDATO: Presidente y Vicepresidente del Tribunal General.(TJUE)",
-    "Plazo":"3 años"
+    "left":"MANDATO: Presidente y Vicepresidente del Tribunal General.(TJUE)",
+    "right":"3 años"
   },
   {
-    "Situacion":"MANDATO: Presidentes de las Salas de 5 jueces del Tribunal General.(TJUE)",
-    "Plazo":"3 años"
+    "left":"MANDATO: Presidentes de las Salas de 5 jueces del Tribunal General.(TJUE)",
+    "right":"3 años"
   },
   {
-    "Situacion":"MANDATO: Presidentes de las Salas de 3 jueces del Tribunal General.(TJUE)",
-    "Plazo":"Periodo determinado"
+    "left":"MANDATO: Presidentes de las Salas de 3 jueces del Tribunal General.(TJUE)",
+    "right":"Periodo determinado"
   },
   {
-    "Situacion":"MANDATO: Secretarios de Gobierno",
-    "Plazo":"5 años (renovable no + de 10 años)"
+    "left":"MANDATO: Secretarios de Gobierno",
+    "right":"5 años (renovable no + de 10 años)"
   },
   {
-    "Situacion":"MANDATO: Secretarios Coordinadores provinciales",
-    "Plazo":"5 años (renovable no + de 10 años)"
+    "left":"MANDATO: Secretarios Coordinadores provinciales",
+    "right":"5 años (renovable no + de 10 años)"
   },
   {
-    "Situacion":"MANDATO: Vocales del Consejo del Secretariado.",
-    "Plazo":"4 años renovables"
+    "left":"MANDATO: Vocales del Consejo del Secretariado.",
+    "right":"4 años renovables"
   }
 ]
