@@ -1,170 +1,170 @@
 [
   {
-    "Situacion":"Aprobación y reforma de los Reglamentos del Congreso y del Senado",
-    "Mayoria":"Mayoría absoluta"
+    "left":"Aprobación y reforma de los Reglamentos del Congreso y del Senado",
+    "right":"Mayoría absoluta"
   },
   {
-    "Situacion":"Aprobación del Reglamento de las Cortes Generales",
-    "Mayoria":"Mayoría absoluta de cada Cámara"
+    "left":"Aprobación del Reglamento de las Cortes Generales",
+    "right":"Mayoría absoluta de cada Cámara"
   },
   {
-    "Situacion":"Autorización de las cortes generales para que el estado preste su consentimiento\npara obligarse por tratados o convenios internacionales en determinadas\nmaterias especiales",
-    "Mayoria":"Mayoría de cada una de las Cámaras"
+    "left":"Autorización de las cortes generales para que el estado preste su consentimiento\npara obligarse por tratados o convenios internacionales en determinadas\nmaterias especiales",
+    "right":"Mayoría de cada una de las Cámaras"
   },
   {
-    "Situacion":"Autorización de las Cortes Generales para la celebración de acuerdos de\ncooperación entre Comunidades Autónomas distintos de los que, para la gestión\ny prestación de servicios propios de las mismas prevean sus respectivos\nEstatutos de Autonomía.",
-    "Mayoria":"Mayoría de cada una de las Cámaras"
+    "left":"Autorización de las Cortes Generales para la celebración de acuerdos de\ncooperación entre Comunidades Autónomas distintos de los que, para la gestión\ny prestación de servicios propios de las mismas prevean sus respectivos\nEstatutos de Autonomía.",
+    "right":"Mayoría de cada una de las Cámaras"
   },
   {
-    "Situacion":"Distribución en las Comunidades Autónomas y provincias, en su caso, de los\nrecursos del Fondo de Compensación con destino a gastos de inversión",
-    "Mayoria":"Mayoría de cada una de las Cámaras"
+    "left":"Distribución en las Comunidades Autónomas y provincias, en su caso, de los\nrecursos del Fondo de Compensación con destino a gastos de inversión",
+    "right":"Mayoría de cada una de las Cámaras"
   },
   {
-    "Situacion":"Regla general para la adopción de acuerdos en cada una de las Cámaras",
-    "Mayoria":"Mayoría de los miembros presentes"
+    "left":"Regla general para la adopción de acuerdos en cada una de las Cámaras",
+    "right":"Mayoría de los miembros presentes"
   },
   {
-    "Situacion":"Celebración a puerta cerrada de las sesiones del Congreso de los Diputados",
-    "Mayoria":"Mayoría absoluta del Congreso"
+    "left":"Celebración a puerta cerrada de las sesiones del Congreso de los Diputados",
+    "right":"Mayoría absoluta del Congreso"
   },
   {
-    "Situacion":"Celebración a puerta cerrada de las sesiones del Senado",
-    "Mayoria":"Mayoría absoluta del Senado"
+    "left":"Celebración a puerta cerrada de las sesiones del Senado",
+    "right":"Mayoría absoluta del Senado"
   },
   {
-    "Situacion":"Aprobación, modificación o derogación de las leyes orgánicas",
-    "Mayoria":"Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto."
+    "left":"Aprobación, modificación o derogación de las leyes orgánicas",
+    "right":"Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto."
   },
   {
-    "Situacion":"Veto del Senado a un proyecto de ley ordinaria u orgánica remitido por el Congreso",
-    "Mayoria":"Mayoría absoluta del Senado"
+    "left":"Veto del Senado a un proyecto de ley ordinaria u orgánica remitido por el Congreso",
+    "right":"Mayoría absoluta del Senado"
   },
   {
-    "Situacion":"Ratificación por el Congreso de un proyecto de ley ordinaria u orgánica cuyo texto inicial haya sido vetado por el Senado",
-    "Mayoria":"Mayoría absoluta del Congreso"
+    "left":"Ratificación por el Congreso de un proyecto de ley ordinaria u orgánica cuyo texto inicial haya sido vetado por el Senado",
+    "right":"Mayoría absoluta del Congreso"
   },
   {
-    "Situacion":"Ratificación por el Congreso de un proyecto de ley ordinaria u orgánica una vez\ntranscurridos 2 meses desde el veto del Senado",
-    "Mayoria":"Mayoría simple del Congreso"
+    "left":"Ratificación por el Congreso de un proyecto de ley ordinaria u orgánica una vez\ntranscurridos 2 meses desde el veto del Senado",
+    "right":"Mayoría simple del Congreso"
   },
   {
-    "Situacion":"Aceptación o no por el Congreso de las enmiendas a un proyecto de ley\nintroducidas por el Senado",
-    "Mayoria":"Mayoría simple del Congreso."
+    "left":"Aceptación o no por el Congreso de las enmiendas a un proyecto de ley\nintroducidas por el Senado",
+    "right":"Mayoría simple del Congreso."
   },
   {
-    "Situacion":"Otorgamiento, en primera votación de la confianza del Congreso de los Diputados\nal candidato a Presidente del Gobierno",
-    "Mayoria":"Mayoría absoluta del Congreso"
+    "left":"Otorgamiento, en primera votación de la confianza del Congreso de los Diputados\nal candidato a Presidente del Gobierno",
+    "right":"Mayoría absoluta del Congreso"
   },
   {
-    "Situacion":"Otorgamiento, en segunda votación de la confianza del Congreso de los\nDiputados al candidato a Presidente del Gobierno",
-    "Mayoria":"Mayoría simple del Congreso"
+    "left":"Otorgamiento, en segunda votación de la confianza del Congreso de los\nDiputados al candidato a Presidente del Gobierno",
+    "right":"Mayoría simple del Congreso"
   },
   {
-    "Situacion":"Aprobación de la iniciativa para exigir responsabilidad al Presidente y demás\nmiembros del Gobierno por traición o por cualquier delito contra la seguridad del\nEstado en el ejercicio de sus funciones",
-    "Mayoria":"Mayoría absoluta del Congreso"
+    "left":"Aprobación de la iniciativa para exigir responsabilidad al Presidente y demás\nmiembros del Gobierno por traición o por cualquier delito contra la seguridad del\nEstado en el ejercicio de sus funciones",
+    "right":"Mayoría absoluta del Congreso"
   },
   {
-    "Situacion":"Aprobación de una cuestión de confianza propuesta por el Presidente del\nGobierno",
-    "Mayoria":"Mayoría simple del Congreso"
+    "left":"Aprobación de una cuestión de confianza propuesta por el Presidente del\nGobierno",
+    "right":"Mayoría simple del Congreso"
   },
   {
-    "Situacion":"Aprobación de una moción de censura al Gobierno",
-    "Mayoria":"Mayoría absoluta del Congreso"
+    "left":"Aprobación de una moción de censura al Gobierno",
+    "right":"Mayoría absoluta del Congreso"
   },
   {
-    "Situacion":"Declaración del estado de sitio",
-    "Mayoria":"Mayoría absoluta del Congreso"
+    "left":"Declaración del estado de sitio",
+    "right":"Mayoría absoluta del Congreso"
   },
   {
-    "Situacion":"Propuesta de los cuatro vocales del CGPJ designados por el Congreso",
-    "Mayoria":"Mayoría de 3\/5 del Congreso"
+    "left":"Propuesta de los cuatro vocales del CGPJ designados por el Congreso",
+    "right":"Mayoría de 3\/5 del Congreso"
   },
   {
-    "Situacion":"Propuesta de los cuatro vocales del CGPJ designados por el Senado",
-    "Mayoria":"Mayoría de 3\/5 del Senado"
+    "left":"Propuesta de los cuatro vocales del CGPJ designados por el Senado",
+    "right":"Mayoría de 3\/5 del Senado"
   },
   {
-    "Situacion":"Aprobación de superación de los límites de déficit estructural y de volumen de\ndeuda pública en casos excepcionales",
-    "Mayoria":"Mayoría absoluta del Congreso"
+    "left":"Aprobación de superación de los límites de déficit estructural y de volumen de\ndeuda pública en casos excepcionales",
+    "right":"Mayoría absoluta del Congreso"
   },
   {
-    "Situacion":"Apreciación de la necesidad de que el Estado dicte leyes para armonizar las\ndisposiciones normativas de las Comunidades Autónomas",
-    "Mayoria":"Mayoría absoluta de cada Cámara"
+    "left":"Apreciación de la necesidad de que el Estado dicte leyes para armonizar las\ndisposiciones normativas de las Comunidades Autónomas",
+    "right":"Mayoría absoluta de cada Cámara"
   },
   {
-    "Situacion":"Aprobación de las medidas necesarias para obligar a una CC.AA al cumplimiento\nde sus obligaciones constitucionales o legales cuando no haya atendido al\nrequerimiento previo efectuado a su Presidente",
-    "Mayoria":"Mayoría absoluta del Senado"
+    "left":"Aprobación de las medidas necesarias para obligar a una CC.AA al cumplimiento\nde sus obligaciones constitucionales o legales cuando no haya atendido al\nrequerimiento previo efectuado a su Presidente",
+    "right":"Mayoría absoluta del Senado"
   },
   {
-    "Situacion":"4 Magistrados del TC propuestos por el Congreso",
-    "Mayoria":"Mayoría de 3\/5 del Congreso."
+    "left":"4 Magistrados del TC propuestos por el Congreso",
+    "right":"Mayoría de 3\/5 del Congreso."
   },
   {
-    "Situacion":"4 Magistrados del TC propuestos por el Senado",
-    "Mayoria":"Mayoría de 3\/5 del Senado"
+    "left":"4 Magistrados del TC propuestos por el Senado",
+    "right":"Mayoría de 3\/5 del Senado"
   },
   {
-    "Situacion":"Aprobación de los proyectos de reforma constitucional ordinarios",
-    "Mayoria":"Mayoría de 3\/5 de cada una de las Cámaras"
+    "left":"Aprobación de los proyectos de reforma constitucional ordinarios",
+    "right":"Mayoría de 3\/5 de cada una de las Cámaras"
   },
   {
-    "Situacion":"Aprobación de los proyectos de reforma constitucional ordinarios que hubiesen\nobtenido el voto favorable de la mayoría absoluta del Senado, cuando no se haya\nlogrado el acuerdo de ambas Cámaras mediante la creación de una Comisión\nParitaria de Diputados y Senadores",
-    "Mayoria":"Mayoría de 2\/3 en el Congreso siempre que el texto hubiere obtenido en el Senado el voto favorable de la mayoria absoluta"
+    "left":"Aprobación de los proyectos de reforma constitucional ordinarios que hubiesen\nobtenido el voto favorable de la mayoría absoluta del Senado, cuando no se haya\nlogrado el acuerdo de ambas Cámaras mediante la creación de una Comisión\nParitaria de Diputados y Senadores",
+    "right":"Mayoría de 2\/3 en el Congreso siempre que el texto hubiere obtenido en el Senado el voto favorable de la right absoluta"
   },
   {
-    "Situacion":"Solicitud de referéndum sobre una reforma constitucional del artículo 167 CE",
-    "Mayoria":"Solicitud por parte de 1\/10 parte de los miembros de cualquiera de las Cámaras"
+    "left":"Solicitud de referéndum sobre una reforma constitucional del artículo 167 CE",
+    "right":"Solicitud por parte de 1\/10 parte de los miembros de cualquiera de las Cámaras"
   },
   {
-    "Situacion":"Aprobación de una propuesta de reforma constitucional que suponga una revisión total de la Constitución o una parcial que afecte al Titulo preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II",
-    "Mayoria":"Mayoría de 2\/3 de cada Cámara."
+    "left":"Aprobación de una propuesta de reforma constitucional que suponga una revisión total de la Constitución o una parcial que afecte al Titulo preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II",
+    "right":"Mayoría de 2\/3 de cada Cámara."
   },
   {
-    "Situacion":"El cese en el cargo de Magistrado del TC por haber sido declarado responsable civilmente por dolo se decretará por …",
-    "Mayoria":"Mayoria de 3\/4 partes de los miembros del TC"
+    "left":"El cese en el cargo de Magistrado del TC por haber sido declarado responsable civilmente por dolo se decretará por …",
+    "right":"right de 3\/4 partes de los miembros del TC"
   },
   {
-    "Situacion":"Los Estatutos de Autonomia se aprueban mediante Ley organica en una votacion final sobre el conjunto del proyecto por…",
-    "Mayoria":"Mayoría de 3\/5 del Congreso."
+    "left":"Los Estatutos de Autonomia se aprueban mediante Ley organica en una votacion final sobre el conjunto del proyecto por…",
+    "right":"Mayoría de 3\/5 del Congreso."
   },
   {
-    "Situacion":"Las Camaras podran reunirse en sesion extraordinaria a peticion del Gobierno, de la Diputacion Permanente o ….",
-    "Mayoria":"Mayoria absoluta de cualquiera de la Cámaras"
+    "left":"Las Camaras podran reunirse en sesion extraordinaria a peticion del Gobierno, de la Diputacion Permanente o ….",
+    "right":"right absoluta de cualquiera de la Cámaras"
   },
   {
-    "Situacion":"En caso de reforma total de la CE, el nuevo proyecto constitucional debera ser aprobado por…",
-    "Mayoria":"Mayoría de 2\/3 de ambas Cámaras."
+    "left":"En caso de reforma total de la CE, el nuevo proyecto constitucional debera ser aprobado por…",
+    "right":"Mayoría de 2\/3 de ambas Cámaras."
   },
   {
-    "Situacion":"En caso del procedimiento de reforma constitucional del art 168 CE, una vez disueltas las Cámaras, las nuevas Cámaras elegidas deben ratificar el principio de reforma constitucional…",
-    "Mayoria":"Por mayoria simple en el Congreso y mayoria absoluta en el Senado"
+    "left":"En caso del procedimiento de reforma constitucional del art 168 CE, una vez disueltas las Cámaras, las nuevas Cámaras elegidas deben ratificar el principio de reforma constitucional…",
+    "right":"Por right simple en el Congreso y right absoluta en el Senado"
   },
   {
-    "Situacion":"Los proyectos de reforma constitucional deberán ser aprobados por una mayoria de….",
-    "Mayoria":"Mayoría de 3\/5 de cada una de las Cámaras"
+    "left":"Los proyectos de reforma constitucional deberán ser aprobados por una right de….",
+    "right":"Mayoría de 3\/5 de cada una de las Cámaras"
   },
   {
-    "Situacion":"Cuando el Presidente del Gobierno, previa deliberacion del Consejo de Ministros, plantea ante el Congreso una cuestion de confianza, se entendera otorgada la confianza cuando vote a favor de la misma la….",
-    "Mayoria":"Mayoria simple del Congreso de los Diputados"
+    "left":"Cuando el Presidente del Gobierno, previa deliberacion del Consejo de Ministros, plantea ante el Congreso una cuestion de confianza, se entendera otorgada la confianza cuando vote a favor de la misma la….",
+    "right":"right simple del Congreso de los Diputados"
   },
   {
-    "Situacion":"Respecto a la acusacion por traicion hacia el Presidente y demas miembros del Gobierno puede ser planteada por….",
-    "Mayoria":"1\/4 parte del Congreso"
+    "left":"Respecto a la acusacion por traicion hacia el Presidente y demas miembros del Gobierno puede ser planteada por….",
+    "right":"1\/4 parte del Congreso"
   },
   {
-    "Situacion":"Respecto a la acusacion por traicion hacia el Presidente y demas miembros del Gobierno puede ser aprobada por ….",
-    "Mayoria":"Mayoria absoluta del Congreso"
+    "left":"Respecto a la acusacion por traicion hacia el Presidente y demas miembros del Gobierno puede ser aprobada por ….",
+    "right":"right absoluta del Congreso"
   },
   {
-    "Situacion":"El cese en el cargo de Magistrado del TC por incompatibilidad sobrevenida se decretará  por …",
-    "Mayoria":"Mayoria simple del Tribunal constitucional"
+    "left":"El cese en el cargo de Magistrado del TC por incompatibilidad sobrevenida se decretará  por …",
+    "right":"right simple del Tribunal constitucional"
   },
   {
-    "Situacion":"La iniciativa del acceso a la autonomia corresponde a las Diputaciones interesadas o al organo interinsular correspondiente y a las ",
-    "Mayoria":"2\/3 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla."
+    "left":"La iniciativa del acceso a la autonomia corresponde a las Diputaciones interesadas o al organo interinsular correspondiente y a las ",
+    "right":"2\/3 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla."
   },
   {
-    "Situacion":"Que cantidad de los municipios que debieran agruparse para crear una comarca, es necesario que se oponga expresamente para que no pueda crearse",
-    "Mayoria":"2\/5 partes de los municipios, siempre que representen al menos la mitad del censo electoral del territorio correspondiente"
+    "left":"Que cantidad de los municipios que debieran agruparse para crear una comarca, es necesario que se oponga expresamente para que no pueda crearse",
+    "right":"2\/5 partes de los municipios, siempre que representen al menos la mitad del censo electoral del territorio correspondiente"
   }
 ]
