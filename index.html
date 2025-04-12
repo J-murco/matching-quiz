@@ -2,18 +2,23 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Matching Quiz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Match the Pairs</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <h1 id="section-title"></h1>
-  <div id="quiz-container" class="grid-container">
-    <!-- Questions will be injected here -->
+  <h1>Match the Pairs</h1>
+  <div id="game-container">
+    <div id="left-column" class="column"></div>
+    <div id="right-column" class="column"></div>
   </div>
-  <div id="message"></div>
-  <button id="next-btn" style="display:none;">Next</button>
+
+  <div class="controls">
+    <button id="check-answers">Check Answers</button>
+    <p id="result"></p>
+  </div>
 
   <script src="script.js"></script>
 </body>
 </html>
+
