@@ -1,49 +1,76 @@
 body {
   font-family: Arial, sans-serif;
-  text-align: center;
+  background-color: #f4f7fa;
+  margin: 0;
   padding: 20px;
-  background-color: #f9f9f9;
+  text-align: center;
 }
 
 h1 {
-  margin-bottom: 20px;
+  color: #333;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
+#game-container {
+  display: flex;
   justify-content: center;
-  margin-bottom: 20px;
+  gap: 40px;
+  margin-top: 30px;
+  flex-wrap: wrap;
 }
 
 .column {
+  width: 300px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 15px;
 }
 
-.select {
-  padding: 10px;
-  font-size: 16px;
+.item {
+  background-color: #ffffff;
+  border: 2px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.item:hover {
+  border-color: #888;
+}
+
+.selected {
+  border-color: #007bff;
+  background-color: #e0f0ff;
+}
+
+.matched {
+  background-color: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+  pointer-events: none;
+}
+
+.controls {
+  margin-top: 30px;
 }
 
 button {
   padding: 10px 20px;
   font-size: 16px;
-  cursor: pointer;
-  background-color: #4CAF50;
-  color: white;
+  background-color: #007bff;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
 }
 
-button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
+button:hover {
+  background-color: #0056b3;
 }
 
-#message {
-  margin-top: 10px;
+#result {
+  margin-top: 15px;
   font-weight: bold;
+  color: #333;
 }
+
